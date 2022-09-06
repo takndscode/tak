@@ -3,4 +3,4 @@
 @MetaDescription DropPages allows you to publish website content quickly and effortlessly from your favourite text editor. Test
 
 @PostBody
-DropPages allows you to publish website content quickly and effortlessly from your favourite text editor. You write Markdown, save it to Dropbox and DropPages will automatically create a web page and publish it online. DropPages is best suited for creating content heavy web pages like blogs and documentation. Test
+DropPages allows you to publish website content quickly and effortlessly from your favourite text editor. You write Markdown, save it to Dropbox and DropPages will automatically create a web page and publish it online. DropPages is best suited for creating content heavy web pages like blogs and documentation.
